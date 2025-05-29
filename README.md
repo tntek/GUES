@@ -49,7 +49,7 @@ python train.py
 ```
 You can modify the `${DATASETS.ROOT_TRAIN_DIR}` and `${DATASETS.ROOT_TEST_DIR}` paths in `./configs/pretrain.yml` to change the training datasets.
 
-- We also provide the pre-trained source models which can be downloaded from [here](https://drive.google.com/drive/folders/17n6goPXw_-ERgTK8R8nm4M_8PJPTEK1j?usp=sharing).
+- We also provide the pre-trained source models which can be downloaded from [here](https://drive.google.com/drive/folders/1NHH-CNJXqtYwFTEaE0877xLMaj1VrnDF?usp=sharing).
 
 ### Adaptation
 After obtaining the source models, train a VAE model for data adaptation :
